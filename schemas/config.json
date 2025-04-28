@@ -117,7 +117,7 @@
           "type": "string"
         },
         "dir": {
-          "default": "./",
+          "default": "./download",
           "title": "Dir",
           "type": "string"
         },
@@ -134,7 +134,7 @@
           "title": "Tmp Dir"
         },
         "sessdata": {
-          "default": "",
+          "default": "buvid3=ABFF0DA5-8138-1440-48D8-5E12C3223C2875598infoc; b_nut=1743047775; _uuid=9195C931-7511-9197-C8C8-97D41A710BDD577259infoc; buvid4=14313DD7-49A2-72F8-45A3-49853852106079867-025032703-QDMqXl%2FgngNqQGKOv%2BJG%2Bg%3D%3D; rpdid=|(umYJlk)l|Y0J'u~RJ|R~~)|; SESSDATA=54b52453%2C1758599878%2C221f7%2A31CjCi68N3J2-7PIPhsE3LqDl-nsWe0naBNk_DPUKz6Sft67IZO5IjvFtU9INI9b0e1ZsSVkJzUk1oay1YZ2FBZjM4ZlNpOU1uU2hlSkxCbDRYenpneF9fMlQwR2JDeGkweXFDb05HaDI1RTNHUnE2REptZFNLc0NTazNuaFA5OEVtZnl3UGtSQ0ZBIIEC; bili_jct=fe521b8e58b216246c5e83504b05de7e; DedeUserID=20972760; DedeUserID__ckMd5=9ae8022e2fb99e50; CURRENT_QUALITY=80; header_theme_version=CLOSE; enable_web_push=DISABLE; enable_feed_channel=ENABLE; fingerprint=42671d7961ed89735623c2905e7b5c2b; buvid_fp_plain=undefined; buvid_fp=e2c5682adcbf2223e813ed3c089b2826; bp_t_offset_20972760=1057838801348460544; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDU5MDY4NzIsImlhdCI6MTc0NTY0NzYxMiwicGx0IjotMX0.NtuKdPTDor4uZEibhoU-FF7V1Cdf5EEFCyMdMowHxd4; bili_ticket_expires=1745906812; b_lsid=1FBFDB37_19670B59833; VIP_DEFINITION_GUIDE=1; sid=hoo6p49p; home_feed_column=4; browser_resolution=856-755; bmg_af_switch=0",
           "title": "Sessdata",
           "type": "string"
         },
